@@ -11,4 +11,4 @@ This repository contains my practice work using **OpenCV** in Python.
 - Python 3.x  
 - OpenCV  
 - NumPy  
-
+find practice images in screenshot files 
